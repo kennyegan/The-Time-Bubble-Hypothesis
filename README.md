@@ -18,9 +18,10 @@ This repository develops a quantitative, simulation-backed framework for the **T
 ## 📐 Formal Sketch
 I introduce an observability factor **O** capturing the probability that two civilizations’ **communication windows overlap** in relativistic spacetime.
 
-\[
+$$
 N = R_* \cdot f_p \cdot n_e \cdot f_l \cdot f_i \cdot f_c \cdot L \cdot O
-\]
+$$
+
 
 **Key determinants of \(O\):**
 - **Light-cone overlap:** causal contact given spacetime separation.
